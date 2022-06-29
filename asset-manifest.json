@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/armcareers/static/css/main.c5b097a6.css",
+    "main.js": "/armcareers/static/js/main.88fb5b19.js",
+    "static/media/bread.jpg": "/armcareers/static/media/bread.c6560c5ae1b1ce0a32a1.jpg",
+    "static/media/logo.png": "/armcareers/static/media/logo.59bb82f2768e2d0f9e16.png",
+    "static/media/audit.png": "/armcareers/static/media/audit.c5ffd1ef405ffb06be58.png",
+    "index.html": "/armcareers/index.html",
+    "main.c5b097a6.css.map": "/armcareers/static/css/main.c5b097a6.css.map",
+    "main.88fb5b19.js.map": "/armcareers/static/js/main.88fb5b19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b097a6.css",
+    "static/js/main.88fb5b19.js"
+  ]
+}
